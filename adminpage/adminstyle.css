@@ -1,0 +1,15 @@
+.adminbodybg{
+  background-color: #ffffff;
+  border-radius:25px 0;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.7);
+  -webkit-box-shadow: 10px 10px 10px rgba(0,0,0,0.7);
+  -moz-box-shadow: 10px 10px 10px rgba(0,0,0,0.7);
+
+}
+.link-right{
+  float: right;
+}
+.sinopsis{
+  width: 100%;
+}
+

@@ -1,0 +1,21 @@
+.shadow{
+  box-shadow: 15px 15px 15px rgba(0,0,0,0.7);
+  -webkit-box-shadow: 15px 15px 15px rgba(0,0,0,0.7);
+  -moz-box-shadow: 15px 15px 15px rgba(0,0,0,0.7);
+  background-color: #f0f0f0;
+}
+.Judul{
+  text-align: center;
+  font-weight: normal;
+  padding: 10px;
+}
+.Norm{
+  font-weight: normal;
+}
+.cover{
+  width: 250px;
+  height: 400px;
+}
+.pt{
+  padding: 15px;
+}
